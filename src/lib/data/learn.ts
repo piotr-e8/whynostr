@@ -18,6 +18,11 @@ export const learnLinks: App.LinkList[] = [
                 title: 'NostrExplained.com',
                 url: 'https://nostrexplained.com',
                 description: 'A visual explanation of Nostr and how it works.'
+            },
+                        {
+                title: 'Nostrich.love',
+                url: 'https://nostrich.love',
+                description: 'A normie-friendly introduction and quick start guide.'
             }
         ]
     },
